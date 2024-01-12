@@ -1,13 +1,5 @@
-# omics-data-management
-
-## NOAA Omics Data Management Guide
-
-[Click here for the NOAA Omics Data Management Guide](https://github.com/aomlomics/omics-data-management/wiki)
-
-## NOAA Omics Workflow for Submitting eDNA to OBIS 
-[edna2obis repository](https://github.com/aomlomics/edna2obis)
-
-![](https://github.com/aomlomics/omics-data-management/blob/main/biddle_mermaid_fig_dmg.png)
+**This is an outdated version of the NOAA Omics Data Management Guide. Check out the updated website here!**
+**[https://noaa-omics-dmg.readthedocs.io](https://noaa-omics-dmg.readthedocs.io/en/latest/)**
 
 ## Legal Disclaimer
 
