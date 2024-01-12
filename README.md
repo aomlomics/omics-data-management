@@ -1,5 +1,5 @@
 **This is an outdated version of the NOAA Omics Data Management Guide. Check out the updated website here!**  
-**[https://noaa-omics-dmg.readthedocs.io](https://noaa-omics-dmg.readthedocs.io/en/latest/)**
+**[noaa-omics-dmg.readthedocs.io](https://noaa-omics-dmg.readthedocs.io/en/latest/)**
 
 ## Legal Disclaimer
 
